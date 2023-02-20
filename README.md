@@ -1,5 +1,5 @@
-## Active Record Sinatra boilerplate
+# As an user, I can list all restaurants
+# As an user, I can see details about one restaurant
 
-Boilerplate for the 03-AR-Database/03-ActiveRecord-Basics/01_sinatra_activerecord livecode.
-
-Please refer to the livecode guidelines to use it.
+## MODEL
+- Restaurant
